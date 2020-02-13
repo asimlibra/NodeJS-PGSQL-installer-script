@@ -1,5 +1,5 @@
 # NodeJS-PGSQL-installer-script
-This Script expects a freshly installed Debian|Ubuntu and Centos based machine.
+This Script expects a freshly installed Debian|Ubuntu or Centos based machine.
 ##### Note: This Script runs in interactive mode and reads variable data from STDIN.
 When run against privileged user it does the following things: 
 - Create a system User
